@@ -1,0 +1,70 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2022 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "uri": "nyt://article/c20e52df-afd3-5623-9c2a-c1a1777755d9",
+      "url": "https://www.nytimes.com/2022/07/06/us/politics/comey-mccabe-irs-audits.html",
+      "id": 100000008397166,
+      "asset_id": 100000008397166,
+      "source": "New York Times",
+      "published_date": "2022-07-06",
+      "updated": "2022-07-07 00:20:26",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Federal Taxes (US);United States Politics and Government;Comey, James B;McCabe, Andrew G;Trump, Donald J;Rettig, Charles P;Internal Revenue Service;Federal Bureau of Investigation",
+      "column": null,
+      "byline": "By Michael S. Schmidt",
+      "type": "Article",
+      "title": "Comey and McCabe, Who Infuriated Trump, Both Faced Intensive I.R.S. Audits",
+      "abstract": "The former F.B.I. director and his deputy, both of whom former President Donald J. Trump wanted prosecuted, were selected for a rare audit program that the tax agency says is random.",
+      "des_facet": [
+        "Federal Taxes (US)",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Internal Revenue Service",
+        "Federal Bureau of Investigation"
+      ],
+      "per_facet": [
+        "Comey, James B",
+        "McCabe, Andrew G",
+        "Trump, Donald J",
+        "Rettig, Charles P"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jared Soares for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/07/06/us/politics/06dc-audit-promo/06dc-audit-promo-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/07/06/us/politics/06dc-audit-promo/06dc-audit-promo-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/07/06/us/politics/06dc-audit-promo/06dc-audit-promo-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    }
+  ]
+}
